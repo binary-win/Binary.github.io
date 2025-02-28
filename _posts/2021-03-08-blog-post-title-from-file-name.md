@@ -30,3 +30,6 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+![Profile Picture](https://camo.githubusercontent.com/70b0ff6e716cf88856fe29678142915b5c29bddb6be48c38f709a2b07cf94ba3/68747470733a2f2f692e696d6775722e636f6d2f66776f42634b532e706e67)
+
+
