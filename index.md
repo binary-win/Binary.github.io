@@ -14,4 +14,4 @@ When I’m not knee-deep in disassembly, you’ll find me sharing my discoveries
 
 Stick around. It’s going to be a wild ride.
 
-![main](https://github.com/binary-win/Blogs/blob/main/Img/IMG1.jpg)
+![main](https://raw.githubusercontent.com/binary-win/Blogs/main/Img/IMG1.jpg)
