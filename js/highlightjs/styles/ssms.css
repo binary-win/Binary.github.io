@@ -2,50 +2,50 @@
     display: block;
     overflow-x: auto;
     padding: 0.5em;
-    background: white;
-    color: #808080;
+    background: #2e2e2e; /* Dark background */
+    color: #dcdcdc; /* Light text color */
 }
 
 .language-tsql .hljs-keyword {
-    color: #0000ff;
+    color: #80c0ff; /* Light blue for keywords */
     font-weight: normal;
 }
 
 .language-tsql .hljs-built_in {
-    color: #ff00ff;
+    color: #ff80ff; /* Light magenta for built-ins */
 }
 
 .language-tsql .hljs-type {
-    color: #008000;
+    color: #98fb98; /* Light green for types */
     font-weight: normal;
 }
 
 .language-tsql .hljs-function {
-    color: #800000;
+    color: #ffcc99; /* Light peach for functions */
 }
 
 .language-tsql .hljs-number {
-    color: #000000;
+    color: #ffd700; /* Gold for numbers */
 }
 
 .language-tsql .hljs-string {
-    color: #ff0000;
+    color: #ff6347; /* Tomato red for strings */
 }
 
 .language-tsql .hljs-symbol {
-    color: #000000;
+    color: #f0f0f0; /* Light gray for symbols */
 }
 
 .language-tsql .hljs-comment {
-    color: #008000;
-    font-style: normal;
+    color: #90ee90; /* Light green for comments */
+    font-style: italic;
 }
 
 .language-tsql .hljs-meta {
-    background: #cdcdcd;
-    color: #000000;
+    background: #4f4f4f; /* Dark gray for meta */
+    color: #dcdcdc; /* Light text for meta */
 }
 
 .language-tsql .hljs-literal {
-    color: #808080;
+    color: #b0b0b0; /* Light gray for literals */
 }
