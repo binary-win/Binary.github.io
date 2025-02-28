@@ -13,3 +13,5 @@ My journey started with a simple curiosity: *How do hackers break into systems, 
 When I’m not knee-deep in disassembly, you’ll find me sharing my discoveries—whether it's **technical deep dives, proof-of-concept exploits, or sarcastic commentary on bad security practices**. If you enjoy **malware research, Windows hacking, and pushing the limits of cybersecurity**, you’re in the right place.  
 
 Stick around. It’s going to be a wild ride.
+
+![main](https://github.com/binary-win/Blogs/blob/main/Img/IMG1.jpg)
